@@ -1,0 +1,10 @@
+[playlist]
+File1=https://raw.githubusercontent.com/thejonarace/salgar_media/main/C01.mp4
+File2=https://raw.githubusercontent.com/thejonarace/salgar_media/main/B01.mp4
+File3=https://raw.githubusercontent.com/thejonarace/salgar_media/main/C02.mp4
+File4=https://raw.githubusercontent.com/thejonarace/salgar_media/main/B02.mp4
+File5=https://raw.githubusercontent.com/thejonarace/salgar_media/main/C03.mp4
+File6=https://raw.githubusercontent.com/thejonarace/salgar_media/main/B03.mp4
+File7=https://raw.githubusercontent.com/thejonarace/salgar_media/main/C04.mp4
+NumberOfEntries=7
+Version=2
